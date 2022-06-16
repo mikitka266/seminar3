@@ -1,3 +1,9 @@
 # Инструкция по работе с Git
-## Git - система управления версиями, с активной поддержкой и открытым кодом.
+## Git - система управления версиями, с активной поддержкой и открытым кодом. Её создателем является [Линус Торвальдс](https://yandex.by/images/search?text=%D0%BB%D0%B8%D0%BD%D1%83%D1%81%20%D1%82%D0%BE%D1%80%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4%D1%81%20%D1%84%D0%BE%D1%82%D0%BE&from=tabbar&p=1&pos=56&rpt=simage&img_url=https%3A%2F%2Fi2.wp.com%2Fwww.tfir.io%2Fwp-content%2Fuploads%2F2019%2F06%2Flinus-laugh.jpg%3Ffit%3D1920%252C1080%26ssl%3D1&lr=158)
 ![Logo](picture.png)
+## Настройка программы: для начала работы, после установки программы мы вводим команды:
+    git config --global user.name "Name"
+    git config --global user.email "Usermail"
+
+
+## Основные команды по работе с git 
